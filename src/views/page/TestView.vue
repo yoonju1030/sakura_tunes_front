@@ -1,7 +1,7 @@
 <template>
-    <div>
+    <v-container fluid>
         Router Test
-    </div>
+    </v-container>
 </template>
 
 <script>
